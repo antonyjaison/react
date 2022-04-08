@@ -1,0 +1,24 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "description": "learn git and node",
+  "main": "inde.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonyjaison/react.git"
+  },
+  "author": "Antony Jaison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonyjaison/react/issues"
+  },
+  "homepage": "https://github.com/antonyjaison/react#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
